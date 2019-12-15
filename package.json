@@ -1,0 +1,16 @@
+{
+  "name": "learning-grpc",
+  "version": "1.0.0",
+  "description": "Understanding the basics of gRPC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yousufqadri",
+  "license": "ISC",
+  "dependencies": {
+    "grpc": "^1.24.2",
+    "uuidv1": "^1.6.14"
+  }
+}
