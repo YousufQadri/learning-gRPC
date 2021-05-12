@@ -11,7 +11,7 @@
   "author": "yousufqadri",
   "license": "ISC",
   "dependencies": {
-    "@grpc/grpc-js": "^0.6.14",
+    "@grpc/grpc-js": "^1.1.8",
     "@grpc/proto-loader": "^0.5.3",
     "@types/cors": "^2.8.6",
     "@types/dotenv": "^8.2.0",
